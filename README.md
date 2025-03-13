@@ -6,4 +6,5 @@ This repo utilizes a complete CI/CD pipeline that requires the build, test, and 
 
 - GitHub (source control)
 - Docker (containerizing)
+    Image on DockerHub can be access via: https://hub.docker.com/r/gurender1915/my-app/tags
 - Jenkins (automate build, testing, verification)
